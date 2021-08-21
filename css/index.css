@@ -1,0 +1,63 @@
+
+/* Start Main area  */
+ .site-banner .site-title h3{
+    padding-top: 30%;
+    font-weight: 700;
+    color: rgb(128, 126, 0)
+}
+.site-banner .site-title h4{
+    padding-top: 2%;
+    font-size: 1.5rem;
+}
+.site-banner .banner-image > img{
+    padding-top: 3rem ;
+    padding-bottom: 3rem;
+    width: 90rem;
+}
+/* End Main area */
+/* Start Service area */
+.heading{
+    color: rgb(0, 113, 128);
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.text{
+    font-size: 25px;    
+}
+.card:hover{
+    box-shadow: 5px 10px rgb(46, 5, 5);
+}   
+/* End Service area */
+/* Start About Area */ 
+.site-about .about-image > img{
+    padding-top: 5rem ;
+    padding-bottom: 3rem;
+    width: 80rem;
+}
+.site-about .about{
+    padding-left: 50px;
+}
+.site-about .about h2{
+    padding-top: 30%;
+    font-weight: 700;
+    color: rgb(224, 126, 46);
+}
+.site-about .about p{
+    padding-top: 2%;
+}
+/* End About Area */ 
+
+/* Start Footer area */
+.footer{
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* End Footer area */
+
+
+
+
+
